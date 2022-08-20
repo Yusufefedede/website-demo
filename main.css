@@ -1,0 +1,111 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+hr {
+    border: dotted 6px #EAF6F6;
+    border-bottom: none;
+    margin: 100px auto;
+    width: 4%;
+}
+h1 {
+    color: #66BFBF;
+    font-size: 5.625rem;
+    padding-top: 50px auto 0 auto;
+}
+h2 {
+    color: #66BFBF;
+    padding-bottom: 10px;
+    font-size: 2.5rem;
+}
+h3 {
+    color: #11999E;
+}
+p {
+    line-height: 2;
+}
+a {
+    margin: 10px 20px;
+}
+
+/* top container */
+
+.pro {
+    text-decoration: underline;
+}
+.top-container {
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+}
+.cloud-1 {
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+.cloud-2 {
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
+
+/* middle container  */
+
+.mid-container {
+    margin: 100px 0;
+}
+.profile {
+    margin: 100px auto 100px auto;
+}
+ /* skills  */
+
+.skills-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+
+ }
+.code-gif {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.chillies {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+/* bottom container  */
+
+.contact-message {
+    margin: 40px auto 60px;
+    width: 40%;
+}
+.button {
+    color: white;
+    background-color: #66BFBF;
+    text-decoration: none;
+    padding: 10px 20px 10px 20px;
+    border-radius: 8px;
+    font-size: 20px;
+}
+.button:hover {
+    background-color: #11999E;
+}
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+}
+.links {
+    color: #11999E;
+    text-decoration: none;
+}
+.links:hover {
+    color: white;
+}
+.copyright {
+    color: white;
+    font-size: 12px;
+    padding: 20px;
+}
